@@ -2,17 +2,17 @@
 
 @font-face {
     font-family: 'thin';
-    src: url(fonts/PPNeueMontreal-Thin.otf) format('opentype');
+    src: url(PPNeueMontreal-Thin.otf) format('opentype');
 }
 
 @font-face {
     font-family: 'medium';
-    src: url(fonts/PPNeueMontreal-Medium.otf) format('opentype');
+    src: url(PPNeueMontreal-Medium.otf) format('opentype');
 }
 
 @font-face {
     font-family: 'bold';
-    src: url(fonts/PPNeueMontreal-Bold.otf) format('opentype');
+    src: url(PPNeueMontreal-Bold.otf) format('opentype');
 }
 
 
